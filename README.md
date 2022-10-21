@@ -1,7 +1,7 @@
 # Do-Zero-ao-Data-Science
 
-1.0. O problema de negócio
-2.0. Planejamento de solução
+#1.0. O problema de negócio
+#2.0. Planejamento de solução
 2.1. Planejamento da solução
 2.2. Planejamento do processo
 3.0. Exercícios – Perguntas do CEO
